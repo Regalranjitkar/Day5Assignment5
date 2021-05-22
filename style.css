@@ -1,0 +1,61 @@
+*{
+    margin: 0%;
+}
+.page-wrapper{
+    width: 99.5%;
+    padding-bottom: 2%;
+    border: 2px solid black;
+    margin: auto;
+    margin-top: 0.25%;
+}
+.red-box{
+    width: 93%;
+    padding: 1%;
+    border: 1px solid red;
+    margin: auto;
+    margin-top:2%;
+}
+.box{
+    margin: auto;
+    width: 98%;
+    border: 1px solid rgb(12, 231, 147);
+}
+.box2{
+    margin-top: 2%;
+    border: 1px solid hotpink;
+}
+.inner-box{
+    background-color: greenyellow;
+    width: 80%;
+    margin: auto;
+    padding-bottom: 2%;
+    overflow: hidden;
+}
+.inner-box2{
+    padding-bottom: 15%;
+}
+.left-box{
+    background-color: aquamarine;
+    width: 45%;
+    float: left;
+    padding-bottom: 4%;
+    overflow: hidden;
+    margin-top: 2%;
+    padding-top: 4%;
+}
+.right-box{
+    padding-bottom: 11%;
+    background-color: rgb(247, 130, 149);
+    float: right;
+}
+.inner-left-box{
+    background-color: rgb(247, 130, 149);
+    width: 45%;
+    float: left;
+    padding-bottom: 15%;
+    overflow: hidden;
+}
+.inner-right-box{
+    background-color: blue;
+    float: right;
+}
